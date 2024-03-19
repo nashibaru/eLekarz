@@ -1,1 +1,1 @@
-Tu narazie jest ściernisko, ale będzie San Francisco
+README
